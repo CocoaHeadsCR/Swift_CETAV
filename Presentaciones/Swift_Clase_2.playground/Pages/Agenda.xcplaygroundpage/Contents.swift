@@ -1,6 +1,7 @@
 /*:
 # **AGENDA**
 
+* ## [Estructuras, Clases, Enumeradores](Tipos%20%de%20Estructuras)
 * ## [PATRONES DE DISEÑO](Patrones%20de%20Disenno)
   + ### [Protocolos](Patrones%20de%20Disenno)
   + ### [Delegados](Delegados)
